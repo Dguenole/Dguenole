@@ -56,6 +56,11 @@ Marketplace permettant de publier, rechercher et acheter des biens avec transact
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Dokploy](https://img.shields.io/badge/Dokploy-2E3440?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
