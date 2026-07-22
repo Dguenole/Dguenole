@@ -1,7 +1,7 @@
 
 # Guenole da-SILVA
 
-**Étudiant développeur Full Stack** · Dakar, Sénégal
+**Développeur Full Stack** · Dakar, Sénégal
 
 > *Du premier endpoint au dernier utilisateur.*
 
