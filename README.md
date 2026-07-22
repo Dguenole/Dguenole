@@ -56,8 +56,8 @@ Marketplace permettant de publier, rechercher et acheter des biens avec transact
 
 ### GitHub Stats
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dguenole&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dguenole&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats-tau-one-90.vercel.app/api?username=Dguenole&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-tau-one-90.vercel.app/api/top-langs/?username=Dguenole&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dguenole&theme=default&hide_border=true" alt="GitHub Streak" />
