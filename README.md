@@ -86,7 +86,7 @@ Marketplace permettant de publier, rechercher et acheter des biens avec transact
     </td>
     <td align="center" width="33%">
       <a href="https://dakarimmo.findsn.org">
-        <img src="https://placehold.co/800x500/0d1117/58a6ff/png?text=DakarImmo" width="260" alt="DakarImmo" /><br/>
+        <img src="dakarimmo.png" width="260" alt="DakarImmo" /><br/>
         <b>DakarImmo</b>
       </a><br/>
       Le journal de l'immobilier dakarois : annonces géolocalisées et rédaction assistée par IA.<br/>
