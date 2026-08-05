@@ -94,7 +94,7 @@ Marketplace permettant de publier, rechercher et acheter des biens avec transact
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Dguenole/BloodPlus">
-        <img src="https://placehold.co/800x500/0d1117/58a6ff/png?text=BloodPlus" width="260" alt="BloodPlus" /><br/>
+        <img src="bloodplus.png" width="260" alt="BloodPlus" /><br/>
         <b>BloodPlus</b>
       </a><br/>
       Gestion complète d'une banque de sang : donneurs, stocks par groupe sanguin, distribution aux hôpitaux.<br/>
