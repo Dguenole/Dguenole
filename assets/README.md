@@ -4,6 +4,8 @@ Déposer ici les captures d'écran affichées dans la grille « Projets » du pr
 
 | Fichier attendu | Projet |
 |-----------------|--------|
+| `findsn.png` | FindSN |
+| `dakarimmo.png` | DakarImmo |
 | `bloodplus.png` | BloodPlus |
 | `bnda.png` | BNDA Sécurisé |
 | `appflow.png` | AppFlow |

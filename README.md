@@ -77,6 +77,22 @@ Marketplace permettant de publier, rechercher et acheter des biens avec transact
 <table>
   <tr>
     <td align="center" width="33%">
+      <a href="https://findsn.org">
+        <img src="https://placehold.co/800x500/0d1117/58a6ff/png?text=FindSN" width="260" alt="FindSN" /><br/>
+        <b>FindSN</b>
+      </a><br/>
+      Plateforme P2P de petites annonces au Sénégal : publication, recherche, transactions sécurisées et messagerie.<br/>
+      <sub><code>React</code> <code>TypeScript</code> <code>Django</code> <code>PostgreSQL</code></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://dakarimmo.findsn.org">
+        <img src="https://placehold.co/800x500/0d1117/58a6ff/png?text=DakarImmo" width="260" alt="DakarImmo" /><br/>
+        <b>DakarImmo</b>
+      </a><br/>
+      Le journal de l'immobilier dakarois : annonces géolocalisées et rédaction assistée par IA.<br/>
+      <sub><code>Django REST</code> <code>React</code> <code>PostgreSQL</code> <code>Claude</code></sub>
+    </td>
+    <td align="center" width="33%">
       <a href="https://github.com/Dguenole/BloodPlus">
         <img src="https://placehold.co/800x500/0d1117/58a6ff/png?text=BloodPlus" width="260" alt="BloodPlus" /><br/>
         <b>BloodPlus</b>
@@ -84,6 +100,8 @@ Marketplace permettant de publier, rechercher et acheter des biens avec transact
       Gestion complète d'une banque de sang : donneurs, stocks par groupe sanguin, distribution aux hôpitaux.<br/>
       <sub><code>Java</code> <code>Swing</code> <code>MySQL</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Dguenole/BNDAsecuriser">
         <img src="https://placehold.co/800x500/0d1117/58a6ff/png?text=BNDA+S%C3%A9curis%C3%A9" width="260" alt="BNDAsecuriser" /><br/>
@@ -100,8 +118,6 @@ Marketplace permettant de publier, rechercher et acheter des biens avec transact
       Simulateur interactif de flot maximal : édition de graphe et résolution par Ford-Fulkerson.<br/>
       <sub><code>React</code> <code>TypeScript</code> <code>Tauri</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Dguenole/Meteoapp">
         <img src="https://placehold.co/800x500/0d1117/58a6ff/png?text=MeteoApp" width="260" alt="MeteoApp" /><br/>
@@ -110,6 +126,8 @@ Marketplace permettant de publier, rechercher et acheter des biens avec transact
       Application Android affichant les prévisions météo des régions du Sénégal via une API REST.<br/>
       <sub><code>Android</code> <code>Java</code> <code>Retrofit</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Dguenole/senidos">
         <img src="https://placehold.co/800x500/0d1117/58a6ff/png?text=Senidos" width="260" alt="Senidos" /><br/>
@@ -126,6 +144,7 @@ Marketplace permettant de publier, rechercher et acheter des biens avec transact
       API REST en architecture par couches : entité JPA, repository, service et contrôleur.<br/>
       <sub><code>Java 21</code> <code>Spring Boot</code> <code>H2</code></sub>
     </td>
+    <td width="33%"></td>
   </tr>
 </table>
 
