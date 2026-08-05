@@ -78,7 +78,7 @@ Marketplace permettant de publier, rechercher et acheter des biens avec transact
   <tr>
     <td align="center" width="33%">
       <a href="https://findsn.org">
-        <img src="https://placehold.co/800x500/0d1117/58a6ff/png?text=FindSN" width="260" alt="FindSN" /><br/>
+        <img src="assets/findsn.png" width="260" alt="FindSN" /><br/>
         <b>FindSN</b>
       </a><br/>
       Plateforme P2P de petites annonces au Sénégal : publication, recherche, transactions sécurisées et messagerie.<br/>
