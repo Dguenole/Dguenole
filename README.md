@@ -86,7 +86,7 @@ Marketplace permettant de publier, rechercher et acheter des biens avec transact
     </td>
     <td align="center" width="33%">
       <a href="https://dakarimmo.findsn.org">
-        <img src="dakarimmo.png" width="260" alt="DakarImmo" /><br/>
+        <img src="assets/dakarimmo.png" width="260" alt="DakarImmo" /><br/>
         <b>DakarImmo</b>
       </a><br/>
       Le journal de l'immobilier dakarois : annonces géolocalisées et rédaction assistée par IA.<br/>
@@ -94,7 +94,7 @@ Marketplace permettant de publier, rechercher et acheter des biens avec transact
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Dguenole/BloodPlus">
-        <img src="bloodplus.png" width="260" alt="BloodPlus" /><br/>
+        <img src="assets/bloodplus.png" width="260" alt="BloodPlus" /><br/>
         <b>BloodPlus</b>
       </a><br/>
       Gestion complète d'une banque de sang : donneurs, stocks par groupe sanguin, distribution aux hôpitaux.<br/>
@@ -104,7 +104,7 @@ Marketplace permettant de publier, rechercher et acheter des biens avec transact
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Dguenole/BNDAsecuriser">
-        <img src="https://placehold.co/800x500/0d1117/58a6ff/png?text=BNDA+S%C3%A9curis%C3%A9" width="260" alt="BNDAsecuriser" /><br/>
+        <img src="assets/bnda.png" width="260" alt="BNDAsecuriser" /><br/>
         <b>BNDA Sécurisé</b>
       </a><br/>
       Application bancaire durcie selon l'OWASP : CSRF, XSS, injection SQL, brute-force, journal d'audit.<br/>
@@ -112,7 +112,7 @@ Marketplace permettant de publier, rechercher et acheter des biens avec transact
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Dguenole/apode">
-        <img src="https://placehold.co/800x500/0d1117/58a6ff/png?text=AppFlow" width="260" alt="AppFlow" /><br/>
+        <img src="assets/appflow.png" width="260" alt="AppFlow" /><br/>
         <b>AppFlow</b>
       </a><br/>
       Simulateur interactif de flot maximal : édition de graphe et résolution par Ford-Fulkerson.<br/>
@@ -120,7 +120,7 @@ Marketplace permettant de publier, rechercher et acheter des biens avec transact
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Dguenole/Meteoapp">
-        <img src="https://placehold.co/800x500/0d1117/58a6ff/png?text=MeteoApp" width="260" alt="MeteoApp" /><br/>
+        <img src="assets/meteoapp.png" width="260" alt="MeteoApp" /><br/>
         <b>MeteoApp</b>
       </a><br/>
       Application Android affichant les prévisions météo des régions du Sénégal via une API REST.<br/>
@@ -130,7 +130,7 @@ Marketplace permettant de publier, rechercher et acheter des biens avec transact
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Dguenole/senidos">
-        <img src="https://placehold.co/800x500/0d1117/58a6ff/png?text=Senidos" width="260" alt="Senidos" /><br/>
+        <img src="assets/senidos.png" width="260" alt="Senidos" /><br/>
         <b>Senidos</b>
       </a><br/>
       Gestion scolaire centralisée : emplois du temps, notes, étudiants, professeurs et classes.<br/>
@@ -138,7 +138,7 @@ Marketplace permettant de publier, rechercher et acheter des biens avec transact
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Dguenole/api">
-        <img src="https://placehold.co/800x500/0d1117/58a6ff/png?text=Spring+REST+API" width="260" alt="Spring REST API" /><br/>
+        <img src="assets/spring-api.png" width="260" alt="Spring REST API" /><br/>
         <b>Spring REST API</b>
       </a><br/>
       API REST en architecture par couches : entité JPA, repository, service et contrôleur.<br/>
