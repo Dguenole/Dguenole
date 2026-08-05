@@ -64,6 +64,70 @@ Marketplace permettant de publier, rechercher et acheter des biens avec transact
 
 ---
 
+### Projets
+
+<!--
+  Les images pointent pour l'instant vers un service de placeholder.
+  Pour mettre tes propres captures :
+    1. place les fichiers dans assets/  (assets/bloodplus.png, etc.)
+    2. remplace l'URL https://placehold.co/... par assets/<fichier>.png
+  Format conseillé : 800x500 px, PNG, capture de l'écran le plus parlant.
+-->
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Dguenole/BloodPlus">
+        <img src="https://placehold.co/800x500/0d1117/58a6ff/png?text=BloodPlus" width="260" alt="BloodPlus" /><br/>
+        <b>BloodPlus</b>
+      </a><br/>
+      Gestion complète d'une banque de sang : donneurs, stocks par groupe sanguin, distribution aux hôpitaux.<br/>
+      <sub><code>Java</code> <code>Swing</code> <code>MySQL</code></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Dguenole/BNDAsecuriser">
+        <img src="https://placehold.co/800x500/0d1117/58a6ff/png?text=BNDA+S%C3%A9curis%C3%A9" width="260" alt="BNDAsecuriser" /><br/>
+        <b>BNDA Sécurisé</b>
+      </a><br/>
+      Application bancaire durcie selon l'OWASP : CSRF, XSS, injection SQL, brute-force, journal d'audit.<br/>
+      <sub><code>PHP 8</code> <code>PDO</code> <code>MySQL</code></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Dguenole/apode">
+        <img src="https://placehold.co/800x500/0d1117/58a6ff/png?text=AppFlow" width="260" alt="AppFlow" /><br/>
+        <b>AppFlow</b>
+      </a><br/>
+      Simulateur interactif de flot maximal : édition de graphe et résolution par Ford-Fulkerson.<br/>
+      <sub><code>React</code> <code>TypeScript</code> <code>Tauri</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Dguenole/Meteoapp">
+        <img src="https://placehold.co/800x500/0d1117/58a6ff/png?text=MeteoApp" width="260" alt="MeteoApp" /><br/>
+        <b>MeteoApp</b>
+      </a><br/>
+      Application Android affichant les prévisions météo des régions du Sénégal via une API REST.<br/>
+      <sub><code>Android</code> <code>Java</code> <code>Retrofit</code></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Dguenole/senidos">
+        <img src="https://placehold.co/800x500/0d1117/58a6ff/png?text=Senidos" width="260" alt="Senidos" /><br/>
+        <b>Senidos</b>
+      </a><br/>
+      Gestion scolaire centralisée : emplois du temps, notes, étudiants, professeurs et classes.<br/>
+      <sub><code>PHP</code> <code>MySQL</code> <code>JavaScript</code></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Dguenole/api">
+        <img src="https://placehold.co/800x500/0d1117/58a6ff/png?text=Spring+REST+API" width="260" alt="Spring REST API" /><br/>
+        <b>Spring REST API</b>
+      </a><br/>
+      API REST en architecture par couches : entité JPA, repository, service et contrôleur.<br/>
+      <sub><code>Java 21</code> <code>Spring Boot</code> <code>H2</code></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
