@@ -104,7 +104,7 @@ Marketplace permettant de publier, rechercher et acheter des biens avec transact
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Dguenole/BNDAsecuriser">
-        <img src="assets/bnda.png" width="260" alt="BNDAsecuriser" /><br/>
+        <img src="assets/bnkda.png" width="260" alt="BNDAsecuriser" /><br/>
         <b>BNDA Sécurisé</b>
       </a><br/>
       Application bancaire durcie selon l'OWASP : CSRF, XSS, injection SQL, brute-force, journal d'audit.<br/>
