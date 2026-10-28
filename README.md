@@ -19,7 +19,7 @@ Passionné par le développement web et mobile, je conçois des solutions numér
 
 Marketplace permettant de publier, rechercher et acheter des biens avec transactions sécurisées et messagerie intégrée. Conçue mobile-first pour le contexte sénégalais.
 
-`React` `TypeScript` `Django` `PostgreSQL` `Docker` `Tailwind CSS`
+`Spring boot` `React` `TypeScript` `Django` `PostgreSQL` `Docker` `Tailwind CSS`
 
 ---
 
